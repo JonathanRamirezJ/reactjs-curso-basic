@@ -1,4 +1,4 @@
-## React JS Basic - Todo list App
+## React JS Basic - Todo list App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
